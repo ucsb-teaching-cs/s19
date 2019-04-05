@@ -1,17 +1,49 @@
 ---
 num: "Lecture 4"
-desc: "Practice with 1-1 explanations (Diba)"
+desc: "What do CS teachers need to know?"
 ready: true
 date: 2019-02-01 15:30:00.00-8:00
 ---
 
-Assign Project 01 (one-on-one teaching observation)
-* Have you scheduled your observation with your instructor?
+## Look ahead to upcoming assignments
+
+* H03: Shadow an experienced tutor: [https://ucsb-teaching-cs.github.io/w19/hwk/h03/](https://ucsb-teaching-cs.github.io/w19/hwk/h03/)
+
+* Project 01: One-on-one teaching observations. Schedule your observation: [https://ucsb-teaching-cs.github.io/w19/hwk/proj01/](https://ucsb-teaching-cs.github.io/w19/hwk/proj01/)
+
+## What do CS teachers need to know?
+
+We'll discuss the idea of pedagogical content knowledge (PCK) to try and its significance to being an effective teacher.
+
+Our starting point for the discussion is the following quote from the book "How people learn" (which you read as part of HW1), also referred to by Mark Guzdial on his [CSEducation Research blog](https://computinged.wordpress.com/2010/02/05/what-cs-teachers-know-pck-for-cs-ed/):
+
+**"Shulman (1986, 1987) argues that pedagogical content knowledge is not equivalent to knowledge of a content domain plus a generic set of teaching strategies; instead, teaching strategies differ across disciplines. Expert teachers know the kinds of difficulties that students are likely to face; they know how to tap into students’ existing knowledge in order to make new information meaningful; and they know how to assess their students’ progress"**
+
+Some questions to guide the discussion:
+
+* What does PCK mean to you?
+* Recall a time when one of your teachers used PCK in their teaching or to help you understand a concept.
+* Recall a time when you (as a tutor) have might have used PCK to assist a student? (Its likely that you didn't call it PCK!)
 
 
-Practicing 1-on-1 explanations 
+## Practice one on one explanations 
 
-# Flashcard Topics
+To practice, we will play a game that involves flash cards. Each flash card has a question or a concept that a student is confused about. The goal of the game is to 
+
+1. Practice explaining a concept in different ways, and as clearly as possible in 2 to 3 minutes
+
+2. Think about specific misunderstandings that a student may have related to that question.
+
+3. Refine your explanations based on your insights from 2.
+
+In line with these goals, we will do the following activity:
+* Break into small groups 5-6 students
+* First round: Take turns picking a flash card and reading it to your group
+* In the first round focus on explaining the same problem in different ways. Observe others and take notes about their explanation.
+* In the second round, repeat the same process as before and with the same topic. The person explaining a concept should additionally pick a "Tip card" and try to incorporate the tip in their interaction. 
+* Debrief
+
+## Practicing 1-on-1 explanations 
 
 * Explain the different uses of const in C++
 * How do I define a Python function?
@@ -32,38 +64,13 @@ Practicing 1-on-1 explanations
 * Why do I need to compile my code everytime?
 * What is the difference between .h and .cpp files
 
-# Tips for promoting discussion
-
-* Get on the same page: Ask: What is the goal?
-* Start with a common experience or analogy
-* Rephrase the question (specially if the question is unclear)
-* Start by asking a question to contextualize the question
-* Ask the student a question during your explanation, phrase your question as "How does the idea that ______ apply to ______ ?
-* Ask the student to describe their problem using a diagram
-* Visualize the problem for the student on the whiteboard
-* Express your own curiosity - say "what if ....", wonder
-* Start your explanation with an example problem
-* Ask a question to clarify the problem
-* Ask a general question during your explanation, such as "How do you feel about this?" or "How does this look to you?
-* Be sensitive to confusion - pause if you feel the student is lost 
-* Build on the other's response to increase their motivation
-
-
-The two main goals for this session are:
+The  main goals for this session are:
 * practice explaining concepts in different ways
 * explore important elements of one-on-one interaction with student 
 (we will specifically focus on how to engage with students and promote discussion using a few techniques)
 
 
-To practice, we will play a game with flash cards
-* Break into small group
-* Individuals take turns explaining the same concept to one other person in the group
-* In the first round focus on explaining the same problem in different ways. Observe others and take notes about their explanation.
-* In the second round, repeat the same process as before and with the same topic. The person explaining a concept should additionally pick a "Tip card" and try to incorporate the tip in their interaction. 
-* Debrief
 
-# Scenarios to contextualize questions
 
-We will wrap up the class with a debrief. Students will also be asked to provide a context for each of the questions on the flashcards. We'll use these scenarios in our activities for next class.
 
 
