@@ -9,7 +9,7 @@ date: 2019-04-26 15:00:00.00-8:00
 
 Most folks have submitted; if you didn't, please do by noon.
 
-# Homework H01
+# Homework H02
 
 For CS190J students only. (Optional for others)
 
@@ -18,7 +18,7 @@ For CS190J students only. (Optional for others)
    * Or you can find your own using the [ACM Digital Library](https://dl.acm.org) to look for papers in the list of conferences and journals indicated on the [H01 assignment description](/hwk/h01/).  
    * Any paper that is "related work" to the ones in the list is acceptable (i.e. cited by, or cites).
    * If you go further afield than that, please check in with your supervising instructor; send them a link to the paper in the Digital Library.  (The "ACM Ref") is a good way to cite it.
-* Please submit your work in writing in class
+* Please submit your work via gradescope
 
 
 
