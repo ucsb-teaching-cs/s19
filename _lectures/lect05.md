@@ -2,7 +2,7 @@
 num: "Lecture 7"
 desc: "Peer reviewed tutoring session"
 ready: true
-date: 2019-05-20 15:00:00.00-8:00
+date: 2019-05-8 15:00:00.00-8:00
 ---
 
 # Lesson plan
