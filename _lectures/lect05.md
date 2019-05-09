@@ -22,13 +22,13 @@ In class, students will practice tutoring in multiple short sessions. At the end
 * One experienced tutor leads each group 
 * Clone the git repo that contains the practice code on your laptop or on CSIL
 
-## What happens in each round (5 to 10 minutes, 40 minutes)
+## About the activity (5 to 10 minutes per student, 40 minutes)
 
 * One person assumes the role of a student seeking help, another that of a tutor. The others including the lead tutors are observers.
 * The student should start by asking a question about the problematic code. The tutor should appropriately guide them to debug it
 * Each interaction should not exceed 10 minutes. If the interaction ends in less than 5 minutes, the student should proceed to ask a second question.
 
-### Reflections and feedback (5 minutes, 20 minutes total)
+### Reflections and feedback (5 minutes per student, 20 minutes total)
 
 * After each tutoring session, all the observers (including the lead tutor) should fill this form about the interaction [peer-review observation form](http://bit.ly/Peer-observation-form)
 
