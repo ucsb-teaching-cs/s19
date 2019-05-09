@@ -2,7 +2,7 @@
 num: "Lecture 4"
 desc: "Assisting students with debugging"
 ready: true
-date: 2019-02-08 15:30:00.00-8:00
+date: 2019-05-03 15:30:00.00-8:00
 ---
 
 ## Goal
