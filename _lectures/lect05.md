@@ -42,7 +42,7 @@ In class we'll have mini mock tutoring sessions. At the end of each session, all
 ## About the activity (5 to 10 minutes per student, 40 minutes)
 
 * One person assumes the role of a student, another that of a tutor. The others including the lead tutors are observers.
-* The student should start by picking one of the problems in the git-repo (choose an example problem in one of the directories)
+* The student should start by picking one of the problems in the git-repo (choose an example problem in one of the directories). Don't pick a problem that ends with the tutor's name because they have contributed that problem, so they already know the bug. you may choose a problem that you contributed or go with one of the others.
 * The "student" should ask the tutor a question related to the code (see the README.txt for suggestions to get started). The tutor should appropriately engage with the student to help them solve the problem
 * Each interaction should nominally take 10 minutes. If the interaction ends in less than 5 minutes, the student should proceed to ask a second question.
 * Complete the relections and feedback described below. Please write your feedback
