@@ -17,9 +17,9 @@ In class, students will practice tutoring in mini mock tutoring sessions. At the
 
 ## Getting set up ( 5 minutes)
 
-* Form groups of 4 
-* One experienced tutor leads each group 
-* Clone the git repo that contains the practice code on your laptop or on CSIL
+* Form pairs
+* One experienced tutor leads each pair 
+* Clone the git repo that contains the practice code on your laptop or on CSIL: [https://github.com/ucsb-cs190j-s19/buggycode-peer-review.git](https://github.com/ucsb-cs190j-s19/buggycode-peer-review.git)
 
 ## About the activity (5 to 10 minutes per student, 40 minutes)
 
@@ -27,7 +27,7 @@ In class, students will practice tutoring in mini mock tutoring sessions. At the
 * The student should start by asking a question about the problematic code. The tutor should appropriately guide them to debug it
 * Each interaction should not exceed 10 minutes. If the interaction ends in less than 5 minutes, the student should proceed to ask a second question.
 
-### Reflections and feedback (5 minutes per student, 20 minutes total)
+### Reflections and feedback (10 minutes per student, 20 minutes total)
 
 * After each tutoring session, all the observers (including the lead tutor) should fill this form about the interaction [peer-review observation form](http://bit.ly/Peer-observation-form)
 
