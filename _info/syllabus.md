@@ -105,7 +105,7 @@ In CS 24, students learn about OOP, data structures (linked-lists, trees, stacks
 
 As a CS16/24 mentor, your duties include:
 
-1. Preparing (very thoroughly) for each lab/assignement before your lab section
+1. Preparing (very thoroughly) for each lab/assignment before your lab section
 2. Interacting one-on-one with students in section and open lab hours to assist with programming. Your role is to identify gaps in student understanding and help develop key faculties and techniques needed for programming. In your interactions you should strive to be supportive and non-judgemental. 
 3. Tracking the progress of approximately 10 students in your mentor group and setting up a time to meet with them on a regular basis
 4. Providing feedback on student code (for your mentees only)
